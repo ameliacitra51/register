@@ -1,0 +1,268 @@
+.container{
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color:#183B56;
+}
+
+.style{
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color:#183B56;
+}
+
+.tipography{
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color:#183B56;
+}
+
+.photography{
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color:#183B56;
+}
+
+.cloud{
+    font-family: HK Grotesk;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color:#183B56;
+}
+
+.cat{
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+color:#5A7184;
+}
+
+.fashion{
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #183B56;
+}
+ .garis{
+    border: dashed;
+    color: #ECEEF2;
+ }
+
+.fashion1{
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+color:#5A7184;
+}
+
+.categories{
+font-family: HK Grotesk;
+font-size: 28px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #183B56;
+}
+
+.button{
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #1565D8;
+}
+
+.bottom{
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.79px;
+text-align: center;
+color: #5A7184;
+}
+
+.judul{
+font-family: HK Grotesk;
+font-size: 32px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #183B56;
+}
+
+.subjudul{
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+color: #5A7184;
+}
+
+.leptop{
+width: 167px;
+height: 118px;
+top: 3033px;
+left: 186px;
+gap: 0px;
+opacity: 0px;
+background: #B3BAC5;
+}
+
+.layout{
+width: 234px;
+height: 24px;
+top: 3035px;
+left: 396px;
+gap: 0px;
+opacity: 0px;
+font-family: HK Grotesk;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #183B56;
+}
+
+.text1{
+font-family: HK Grotesk;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #183B56;
+}
+
+.text2{
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #5A7184;
+}
+
+.text3{
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #1565D8;
+}
+.textbesar{
+font-family: HK Grotesk;
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #183B56;
+}
+
+.textehya{
+font-family: HK Grotesk;
+font-size: 24px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #183B56;
+}
+
+.subtitle{
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+color: #5A7184;
+}
+
+.textproduct{
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 24.51px;
+text-align: left;
+color: #183B56;
+}
+
+.textkecil{
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 21.79px;
+text-align: left;
+color: #183B56;
+}
+
+.judul1{
+font-family: HK Grotesk;
+font-size: 32px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #183B56;
+}
+
+.textassus{
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #183B56;
+}
+
+.processor{
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #183B56;
+}
+
+.intel{
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+color: #5A7184;
+}

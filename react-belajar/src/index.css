@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .primary-btn {
+        @apply inline-block border-2 border-[#1565D8] text-[#1565D8] font-semibold rounded-lg hover:bg-secondary duration-200 hover:shadow-[0px_10px_8px_-7px_#69a79c] py-2 px-6;
+    }
+}
+
+@layer utilities{
+    .drop-shadow {
+        filter: drop-shadow(6px 8px 10px rgba(0, 0, 0, 0.5));
+    }
+
+    .border{
+        border:dashed #ECEEF2;
+    }
+
+    .primary-btn{
+        @apply shadow-[0px_10px_8px_-7px_#1565D8] hover:shadow-[0px_10px_8px_-7px_#1565D8]
+    }
+        .cloud{
+            font-family: HK Grotesk;
+            font-size: 32px;
+            font-weight: 700;
+            line-height: 40px;
+            letter-spacing: 0.20000000298023224px;
+            text-align: center;
+            color:#183B56;
+        }
+        
+        .cat{
+        font-family: Open Sans;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: center;
+        color:#5A7184;
+        }
+        .stock{
+        font-family: HK Grotesk;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        letter-spacing: 0.20000000298023224px;
+        text-align: left;
+        }
+        .stock-h1{
+        font-family: Open Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        text-align: left;
+        color: #5A7184;
+        }
+        .inner{
+            width: 250px;
+            height: 250px;
+            border: 1px 0px 0px 0px;
+            border: 1px solid #ECEEF2;
+            padding: 20px;
+        }
+        .promo{
+            font-family: HK Grotesk;
+            font-size: 40px;
+            font-weight: 700;
+            line-height: 52px;
+            letter-spacing: 0.20000000298023224px;
+            text-align: left;
+            color: #FFFFFF;
+          }
+          .button{
+            width: 126px;
+            height: 44px;
+            gap: 0px;
+            opacity: 0px;
+            background-color: #00B8D9;
+            }
+}
